@@ -1,0 +1,5 @@
+print(88)
+print(21+8)
+print(112-7)
+print(121/54)
+print(22*120)
